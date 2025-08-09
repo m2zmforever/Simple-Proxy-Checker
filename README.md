@@ -72,4 +72,4 @@ python proxy_checker.py -p 5.6.7.8:1080:user:pass -t socks5 --verbose
 (´･-･`)?
 
 ## Author
-m2_zm
+idk... .D

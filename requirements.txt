@@ -1,0 +1,7 @@
+aiohttp
+aiohttp_socks
+requests
+tqdm
+python-socks
+aiofiles
+tabulate
